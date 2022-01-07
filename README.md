@@ -1,0 +1,2 @@
+# outlook
+python3通过smtp和outlook邮箱进行邮件发送,免去用win32调用本地应用
