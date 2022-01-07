@@ -1,2 +1,4 @@
 # outlook
-python3通过smtp和outlook邮箱进行邮件发送,免去用win32调用本地应用
+python3通过smtp和outlook邮箱进行邮件发送，免win32调用本地应用
+禁止发送垃圾邮件以及做违法用途，违反法律后果自负
+开源程序禁止商业
